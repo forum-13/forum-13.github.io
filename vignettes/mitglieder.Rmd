@@ -40,5 +40,6 @@ Durch die Mitglieder werden im Forum 13+ folgende Infrastrukturen und Initiative
 - [GASCO: German, Austrian and Swiss Consortia Organisation](https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco) 
 - [Kompetenzzentrum für Lizenzierung](https://www.fid-lizenzen.de)
 - [Open-Access-Monitor](https://open-access-monitor.de/)
-- [DEAL Konsortium](https://deal-konsortium.de) 
+- [Open-Access-Network](https://open-access.network/)
+- [DEAL-Konsortium](https://deal-konsortium.de) 
 
