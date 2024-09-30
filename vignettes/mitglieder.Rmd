@@ -17,7 +17,7 @@ toc: no
 
 - Dr. Sabrina Erkeling, [Universitätsbibliothek J.C. Senckenberg Frankfurt am Main](https://www.ub.uni-frankfurt.de/) 
 - Dr. Angela Holzer, [Deutsche Forschungsgemeinschaft](https://www.dfg.de/) (Gast) 
-- Dr. Antje Kellersohn, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/) [Steuerungsgremium des Allianz-Schwerpunktes „Digitalität in der Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/) (Gast)
+- Dr. Antje Kellersohn, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/) / [Steuerungsgremium des Allianz-Schwerpunktes „Digitalität in der Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/) (Gast)
 - Nadine Keßler, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/)
 - Petra Labriga, [ZB MED -- Informationszentrum Lebenswissenschaften](https://www.zbmed.de/) 
 - Sascha Lauer, [Universitätsbibliothek Mainz](https://www.ub.uni-mainz.de/de) / [Deutscher Bibliotheksverband](https://www.bibliotheksverband.de/) (Gast) 
