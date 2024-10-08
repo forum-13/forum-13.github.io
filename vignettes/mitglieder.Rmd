@@ -15,6 +15,7 @@ toc: no
 
 ## Mitglieder
 
+- Dr. Karolin Bove, [SLUB Dresden](https://www.slub-dresden.de/)
 - Dr. Sabrina Erkeling, [Universitätsbibliothek J.C. Senckenberg Frankfurt am Main](https://www.ub.uni-frankfurt.de/) 
 - Dr. Angela Holzer, [Deutsche Forschungsgemeinschaft](https://www.dfg.de/) (Gast) 
 - Dr. Antje Kellersohn, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/) / [Steuerungsgremium des Allianz-Schwerpunktes „Digitalität in der Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/) (Gast)
@@ -25,7 +26,6 @@ toc: no
 - Dr. Bernhard Mittermaier, [Forschungszentrum Jülich](https://www.fz-juelich.de) 
 - Dirk Pieper, [Universitätsbibliothek Bielefeld](https://www.uni-bielefeld.de/ub/) 
 - Dr. Alexander Pöche, [TIB -- Leibniz-Informationszentrum Technik und Naturwissenschaften](https://www.tib.eu/de/) 
-- Dr. Henriette Rösch, [Universitätsbibliothek Leipzig](https://www.ub.uni-leipzig.de) 
 - Michaela Selbach, [hbz Köln](https://www.hbz-nrw.de/) 
 - Konstanze Söllner, [Universitätsbibliothek Erlangen-Nürnberg](https://ub.fau.de/) / [Deutscher Bibliotheksverband](https://www.bibliotheksverband.de/) (Gast) 
 - Dr. Ursula Stanek, [Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/) 
