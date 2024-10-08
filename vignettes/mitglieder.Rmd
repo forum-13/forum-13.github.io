@@ -15,7 +15,7 @@ toc: no
 
 ## Mitglieder
 
-- Dr. Karolin Bove, [SLUB Dresden](https://www.slub-dresden.de/)
+- Dr. Karolin Bove, [Sächsische Landesbibliothek -- Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)
 - Dr. Sabrina Erkeling, [Universitätsbibliothek J.C. Senckenberg Frankfurt am Main](https://www.ub.uni-frankfurt.de/) 
 - Dr. Angela Holzer, [Deutsche Forschungsgemeinschaft](https://www.dfg.de/) (Gast) 
 - Dr. Antje Kellersohn, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/) / [Steuerungsgremium des Allianz-Schwerpunktes „Digitalität in der Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/) (Gast)
