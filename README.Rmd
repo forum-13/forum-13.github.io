@@ -42,21 +42,22 @@ library(ggplot2)
 my_df <- tibble::tribble(
 
 ~publisher, ~type, ~prop,~colors,
-"Elsevier","DEAL",0.196,"#abb8c3",
-"Springer Nature","DEAL",0.183,"#ff6900",
+"Elsevier","DEAL",0.199,"#abb8c3",
+"Springer Nature","DEAL",0.181,"#ff6900",
 "Wiley","DEAL",0.105,"#ff6900",
-"MPDI","OA-Verlag",0.081,"#ff6900",
-"Frontiers","OA-Verlag",0.037,"#ff6900",
-"OUP","other",0.032,"#abb8c3",
-"T&F","other",0.031,"#abb8c3",
-"ACS","other",0.028,"#abb8c3",
-"APS","other",0.024,"#abb8c3",
-"Thieme","other",0.018,"#abb8c3",
+"MPDI","OA-Verlag",0.078,"#ff6900",
+"Frontiers","OA-Verlag",0.033,"#ff6900",
+"OUP","other",0.033,"#abb8c3",
+"T&F","other",0.029,"#abb8c3",
+"ACS","other",0.029,"#abb8c3",
+"APS","other",0.025,"#abb8c3",
+"IOP","other",0.022,"#abb8c3",
+"Thieme","other",0.021,"#abb8c3",
 "Sage","other",0.016,"#abb8c3",
-"IEEE","other",0.016,"#abb8c3",
 "RSC","other",0.015,"#abb8c3",
-"IOP","other",0.015,"#abb8c3",
-"Sonstige","other",0.205,"#e5e5e5"
+"Wolters Kluwer","other",0.014,"#abb8c3",
+"IEEE","other",0.013,"#abb8c3",
+"Sonstige","other",0.187,"#e5e5e5"
 )
 
 p <- my_df |>
@@ -83,7 +84,7 @@ p <- my_df |>
   theme(legend.position="top") +
   theme(plot.title = element_text(size=30)) +
   labs(x = NULL, y = NULL, title = "Wissenschaftliche Artikel\ndeutscher Einrichtungen\n2019-23",
-       caption = 'Quelle: https://open-access-monitor.de\n(Datenstand vom 06.09.2024)')
+       caption = 'Quelle: https://open-access-monitor.de\n(Datenstand vom 08.06.2025)')
 
 htmlwidgets::saveWidget(girafe(
   ggobj = p,
