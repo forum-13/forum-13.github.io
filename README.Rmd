@@ -83,7 +83,7 @@ p <- my_df |>
         plot.title = element_text(face = "plain")) +
   theme(legend.position="top") +
   theme(plot.title = element_text(size=30)) +
-  labs(x = NULL, y = NULL, title = "Wissenschaftliche Artikel\ndeutscher Einrichtungen\n2019-23",
+  labs(x = NULL, y = NULL, title = "Wissenschaftliche Artikel\ndeutscher Einrichtungen\n2019-24",
        caption = 'Quelle: https://open-access-monitor.de\n(Datenstand vom 08.06.2025)')
 
 htmlwidgets::saveWidget(girafe(
