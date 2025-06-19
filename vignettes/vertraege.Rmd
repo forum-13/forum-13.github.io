@@ -1,7 +1,7 @@
 ---
 title: "OAT-Verträge"
 vignette: >
-%\VignetteIndexEntry{vertraege}
+  %\VignetteIndexEntry{vertraege}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 toc: no
