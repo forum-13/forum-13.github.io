@@ -17,7 +17,6 @@ toc: no
 
 - Dr. Karolin Bove, [Sächsische Landesbibliothek -- Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)
 - Dr. Sabrina Erkeling, [Universitätsbibliothek J.C. Senckenberg Frankfurt am Main](https://www.ub.uni-frankfurt.de/) 
-- Dr. Angela Holzer, [Deutsche Forschungsgemeinschaft](https://www.dfg.de/) (Gast) 
 - Dr. Antje Kellersohn, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/) / [Steuerungsgremium des Allianz-Schwerpunktes „Digitalität in der Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/) (Gast)
 - Nadine Keßler, [Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/)
 - Bernhard Kölbl, [Leopoldina](https://www.leopoldina.org/leopoldina-home/)
@@ -37,12 +36,13 @@ toc: no
 
 Durch die Mitglieder werden im Forum 13+ folgende Infrastrukturen und Initiativen vertreten:
 
-- [Allianz der deutschen Wissenschaftsorganisationen: Schwerpunkt „Digitalität in der Wissenschaft“ / Themenfeld „Weiterentwicklung des wissenschaftlichen Publizierens“](https://www.allianzschwerpunkt-digitalitaet.de/weiterentwicklung-des-wissenschaftlichen-publizierens/) 
+- [Allianz der deutschen Wissenschaftsorganisationen: Schwerpunkt „Digitalität in der Wissenschaft“ / Themenfeld „Weiterentwicklung des wissenschaftlichen Publizierens“](https://www.allianzschwerpunkt-digitalitaet.de/weiterentwicklung-des-wissenschaftlichen-publizierens/)
+- [DEAL-Konsortium](https://deal-konsortium.de) 
+- [Deutscher Bibliotheksverband (dbv-Sektion 4)](https://www.bibliotheksverband.de/sektionen#Sektion4)
 - [ESAC Initiative](https://esac-initiative.org/)
 - [GASCO: German, Austrian and Swiss Consortia Organisation](https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco) 
 - [Kompetenzzentrum für Lizenzierung](https://www.fid-lizenzen.de)
 - [Nationale Akademie der Wissenschaften Leopoldina](https://www.leopoldina.org/leopoldina-home/)
 - [Open-Access-Monitor](https://open-access-monitor.de/)
 - [Open-Access-Network](https://open-access.network/)
-- [DEAL-Konsortium](https://deal-konsortium.de) 
 
