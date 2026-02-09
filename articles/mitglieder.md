@@ -1,0 +1,72 @@
+# Mitglieder
+
+## Kooperative Leitung
+
+- Kristine Hillenkötter, [Niedersächsische Staats- und
+  Universitätsbibliothek Göttingen](https://www.sub.uni-goettingen.de/)
+- Dr. Hildegard Schäffler, [Bayerische Staatsbibliothek
+  München](https://www.bsb-muenchen.de/)
+
+## Mitglieder
+
+- Dr. Karolin Bove, [Sächsische Landesbibliothek – Staats- und
+  Universitätsbibliothek Dresden](https://www.slub-dresden.de/)
+- Dr. Sabrina Erkeling, [Universitätsbibliothek J.C. Senckenberg
+  Frankfurt am Main](https://www.ub.uni-frankfurt.de/)
+- Dr. Antje Kellersohn, [Universitätsbibliothek
+  Freiburg](https://www.ub.uni-freiburg.de/) / [Steuerungsgremium des
+  Allianz-Schwerpunktes „Digitalität in der
+  Wissenschaft“](https://www.allianzschwerpunkt-digitalitaet.de/kontakt/)
+  (Gast)
+- Nadine Keßler, [Universitätsbibliothek
+  Freiburg](https://www.ub.uni-freiburg.de/)
+- Bernhard Kölbl,
+  [Leopoldina](https://www.leopoldina.org/leopoldina-home/)
+- Petra Labriga, [ZB MED – Informationszentrum
+  Lebenswissenschaften](https://www.zbmed.de/)
+- Sascha Lauer, [Universitätsbibliothek
+  Mainz](https://www.ub.uni-mainz.de/de) / [Deutscher Bibliotheksverband
+  Kommission Erwerbung und
+  Bestandsentwicklung](https://www.bibliotheksverband.de/kommission-erwerbung-und-bestandsentwicklung)
+  (Gast)
+- Jens Lazarus, [ZBW – Leibniz-Informationszentrum
+  Wirtschaft](https://www.zbw.eu/de/)
+- Dr. Bernhard Mittermaier, [Forschungszentrum
+  Jülich](https://www.fz-juelich.de)
+- Dirk Pieper, [Universitätsbibliothek
+  Bielefeld](https://www.uni-bielefeld.de/ub/)
+- Dr. Alexander Pöche, [TIB – Leibniz-Informationszentrum Technik und
+  Naturwissenschaften](https://www.tib.eu/de/)
+- Michaela Selbach, [hbz Köln](https://www.hbz-nrw.de/)
+- Konstanze Söllner, [Universitätsbibliothek
+  Erlangen-Nürnberg](https://ub.fau.de/) / [Deutscher Bibliotheksverband
+  Sektion 4](https://www.bibliotheksverband.de/sektionen#Sektion4)
+  (Gast)
+- Dr. Ursula Stanek, [Staatsbibliothek zu
+  Berlin](https://staatsbibliothek-berlin.de/)
+- Stefanie Seeh, [Fraunhofer-Gesellschaft](https://www.fraunhofer.de/)
+- Dr. Roland Wagner, [Universitätsbibliothek J.C. Senckenberg Frankfurt
+  am Main](https://www.ub.uni-frankfurt.de/)
+
+## Infrastrukturen und Initiativen
+
+Durch die Mitglieder werden im Forum 13+ folgende Infrastrukturen und
+Initiativen vertreten:
+
+- [Allianz der deutschen Wissenschaftsorganisationen: Schwerpunkt
+  „Digitalität in der Wissenschaft“ / Themenfeld „Weiterentwicklung des
+  wissenschaftlichen
+  Publizierens“](https://www.allianzschwerpunkt-digitalitaet.de/weiterentwicklung-des-wissenschaftlichen-publizierens/)
+- [DEAL-Konsortium](https://deal-konsortium.de)
+- Deutscher Bibliotheksverband [(dbv-Sektion
+  4)](https://www.bibliotheksverband.de/sektionen#Sektion4), [(dbv
+  Kommission Erwerbung und
+  Bestandsentwicklung)](https://www.bibliotheksverband.de/kommission-erwerbung-und-bestandsentwicklung)
+- [ESAC Initiative](https://esac-initiative.org/)
+- [GASCO: German, Austrian and Swiss Consortia
+  Organisation](https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco)
+- [Kompetenzzentrum für Lizenzierung](https://www.fid-lizenzen.de)
+- [Nationale Akademie der Wissenschaften
+  Leopoldina](https://www.leopoldina.org/leopoldina-home/)
+- [Open-Access-Monitor](https://open-access-monitor.de/)
+- [Open-Access-Network](https://open-access.network/)

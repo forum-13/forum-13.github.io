@@ -1,0 +1,23 @@
+# Arbeitskreis Forum 13+
+
+Der **Arbeitskreis Forum 13+** ist ein unabhängiger Arbeitskreis von
+Expert\*innen aus deutschen Bibliothekskonsortien als Akteuren der
+überregionalen Lizenzierung, von Open-Access-Infrastrukturprojekten,
+Universitätsbibliotheken, des Allianz-Schwerpunkts “Digitalität in der
+Wissenschaft” und des Deutschen Bibliotheksverbandes (dbv). Ziel der
+Aktivitäten ist der Austausch zu Fragen rund um die Modellierung und
+praktische Implementierung von Open-Access-Transformationsverträgen
+sowie die Koordination von Verhandlungen mit kleinen und mittelgroßen
+Verlagen bzw. Fachgesellschaften.
+
+# 
+
+# Articles
+
+### All vignettes
+
+- [F13+ Konkret](https://forum13plus.de/articles/konkret.md):
+- [Mitglieder](https://forum13plus.de/articles/mitglieder.md):
+- [Publikationen](https://forum13plus.de/articles/publikationen.md):
+- [Über uns](https://forum13plus.de/articles/uberuns.md):
+- [OAT-Verträge](https://forum13plus.de/articles/vertraege.md):
