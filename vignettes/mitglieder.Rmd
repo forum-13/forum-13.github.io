@@ -24,6 +24,7 @@ toc: no
 - Sascha Lauer, [Universitätsbibliothek Mainz](https://www.ub.uni-mainz.de/de) / [Deutscher Bibliotheksverband Kommission Erwerbung und Bestandsentwicklung](https://www.bibliotheksverband.de/kommission-erwerbung-und-bestandsentwicklung) (Gast) 
 - Jens Lazarus, [ZBW -- Leibniz-Informationszentrum Wirtschaft](https://www.zbw.eu/de/) 
 - Dr. Bernhard Mittermaier, [Forschungszentrum Jülich](https://www.fz-juelich.de) 
+- Astrid Orth, [Niedersächsische Staats- und Universitätsbibliothek Göttingen](https://www.sub.uni-goettingen.de/)
 - Dirk Pieper, [Universitätsbibliothek Bielefeld](https://www.uni-bielefeld.de/ub/) 
 - Dr. Alexander Pöche, [TIB -- Leibniz-Informationszentrum Technik und Naturwissenschaften](https://www.tib.eu/de/) 
 - Michaela Selbach, [hbz Köln](https://www.hbz-nrw.de/) 
