@@ -33,6 +33,8 @@
   Wirtschaft](https://www.zbw.eu/de/)
 - Dr. Bernhard Mittermaier, [Forschungszentrum
   Jülich](https://www.fz-juelich.de)
+- Astrid Orth, [Niedersächsische Staats- und Universitätsbibliothek
+  Göttingen](https://www.sub.uni-goettingen.de/)
 - Dirk Pieper, [Universitätsbibliothek
   Bielefeld](https://www.uni-bielefeld.de/ub/)
 - Dr. Alexander Pöche, [TIB – Leibniz-Informationszentrum Technik und
