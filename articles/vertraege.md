@@ -15,4 +15,4 @@ ESAC Transformative Agreement Registry
 (<https://esac-initiative.org/about/transformative-agreements/agreement-registry/>).
 
 [Vertragsübersicht-Forum-13plus.pdf](https://forum13plus.de/articles/Vertrags%C3%BCbersicht-Forum-13plus.pdf)
-(Stand 28.03.2025)
+(Stand 19.04.2026)
