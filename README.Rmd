@@ -89,8 +89,8 @@ p <- my_df |>
 
 htmlwidgets::saveWidget(girafe(
   ggobj = p,
-  width_svg = 6,
-  height_svg = 24*0.618,
+  width_svg = 4,
+  height_svg = 10,
   fonts = list(sans = "Roboto"),
   options = list(opts_tooltip(
     css="background-color:white;
