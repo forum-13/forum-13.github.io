@@ -78,6 +78,20 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+// Sidebar HTML widget constraint -----------------------------------------
+
+.sidebar {
+  .html-fill-container {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  svg {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
 // Home page --------------------------------------------------------------
 
 .template-home {
