@@ -14,7 +14,6 @@ Imports:
     cowplot,
     dplyr,
     forcats,
-    ggiraph,
     ggplot2,
     knitr,
     rmarkdown,
