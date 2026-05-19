@@ -37,10 +37,6 @@ jobs:
           extra-packages: any::pkgdown@2.0.9, local::.
           needs: website
 
-      - name: Install pinned ggiraph
-        run: pak::pkg_install("cran::ggiraph@0.8.13")
-        shell: Rscript {0}
-
       - name: Build site
         run: |
           knitr::knit("README.Rmd")

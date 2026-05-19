@@ -78,6 +78,24 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+// Sidebar HTML widget constraint -----------------------------------------
+
+aside.col-md-3 {
+  overflow: hidden;
+
+  .girafe.html-widget {
+    width: 100% !important;
+    height: auto !important;
+    min-height: unset !important;
+  }
+
+  svg {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
 // Home page --------------------------------------------------------------
 
 .template-home {
