@@ -16,6 +16,7 @@ Imports:
     forcats,
     ggplot2,
     knitr,
+    ggiraph,
     rmarkdown,
     tibble,
     htmlwidgets,
