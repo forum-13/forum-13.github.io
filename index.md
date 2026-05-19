@@ -9,3 +9,10 @@ Aktivitäten ist der Austausch zu Fragen rund um die Modellierung und
 praktische Implementierung von Open-Access-Transformationsverträgen
 sowie die Koordination von Verhandlungen mit kleinen und mittelgroßen
 Verlagen bzw. Fachgesellschaften.
+
+    #> Error in `library()`:
+    #> ! there is no package called 'ggiraph'
+    #> Error in `geom_bar_interactive()`:
+    #> ! could not find function "geom_bar_interactive"
+    #> Error in `girafe()`:
+    #> ! could not find function "girafe"
