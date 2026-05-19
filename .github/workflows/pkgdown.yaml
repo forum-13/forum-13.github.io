@@ -38,7 +38,7 @@ jobs:
           needs: website
 
       - name: Install pinned ggiraph
-        run: install.packages("https://cran.r-project.org/src/contrib/Archive/ggiraph/ggiraph_0.8.13.tar.gz", repos = NULL, type = "source")
+        run: pak::pkg_install("cran::ggiraph@0.8.13")
         shell: Rscript {0}
 
       - name: Build site
